@@ -1,0 +1,29 @@
+{
+  "name": "node-wechax",
+  "version": "0.0.1",
+  "description": "An easy node.js package for Tencent WeChat APIs.",
+  "main": "index.js",
+  "dependencies": {
+    "log4js": "~0.6.8",
+    "xml2js": "~0.2.8",
+    "nodegrassex": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/node-wechax.git"
+  },
+  "keywords": [
+    "Wechat",
+    "Weixin",
+    "微信"
+  ],
+  "author": "XadillaX",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/XadillaX/node-wechax/issues"
+  }
+}
