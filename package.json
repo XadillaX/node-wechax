@@ -1,6 +1,6 @@
 {
   "name": "node-wechax",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An easy node.js package for Tencent WeChat APIs.",
   "main": "index.js",
   "dependencies": {
