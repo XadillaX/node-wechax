@@ -4,7 +4,7 @@
   "description": "An easy node.js package for Tencent WeChat APIs.",
   "main": "index.js",
   "dependencies": {
-    "log4js": "~0.6.8",
+    "log4js": "~6.4.0",
     "xml2js": "~0.2.8",
     "nodegrassex": "~0.0.2"
   },
